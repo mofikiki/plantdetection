@@ -1,0 +1,4 @@
+0 Rust
+1 Powdery
+2 Healthy 
+3 Abnormality 
