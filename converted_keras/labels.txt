@@ -1,0 +1,20 @@
+0 Tomato Bacterial spot
+1 Tomato Early Blight
+2 Tomato Late Blight
+3 Tomato Leaf Mold
+4 Tomato Septoria Leaf Spot
+5 Tomato Spider Mites 
+6 Tomato Target Spot
+7 Tomato Mosaic Virus
+8 Tomato Yellow Leaf Curl Virus
+9 Sugarcane Mosaic
+10 Sugarcane Redrot
+11 Rust
+12 Powdery
+13 Mango Bacterial Canker
+14 Mango Die back
+15 Mango Gall Midge
+16 Mango Powdery Mildew
+17 Mango Sooty Mould
+18 Healthy
+19 Abnormality
